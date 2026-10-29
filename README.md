@@ -30,7 +30,7 @@ Vì ứng dụng hoàn toàn không sử dụng backend framework (Zero Dependen
 
 1. **Sao chép mã nguồn (Clone Repo)**
 ```bash
-git clone https://github.com/Chieenslee/NghienCuuKhoaHoc.git
+git clone https://github.com/ongtrumcss/NghienCuuKhoaHoc.git
 cd NghienCuuKhoaHoc
 ```
 
